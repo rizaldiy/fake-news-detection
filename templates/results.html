@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+{% block title %}Fake News Classification - Results{% endblock %}
+{% block body %}
+
+<style>
+.news-description{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    text-align:justify
+}
+</style>
+
+<div class="container">
+    <h2>Hasil Klasifikasi : {{prediction}}</h2>
+    <h3>Nilai Prediksi : {{pred_val}}</h3>
+    <hr>
+    <h2>Teks Input :</h2> 
+    <div class="news-description">
+        {{in_text}}
+    </div>
+    <hr>
+    <h2>Teks Preprocessed :</h2>
+    <div class="news-description">
+        {{prep_text}}
+    </div>
+</div>
+
+{% endblock %}
