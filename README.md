@@ -11,7 +11,8 @@ This project proposed Word2Vec-LSTM methods for detecting fake news in Indonesia
 
 link : https://drive.google.com/file/d/1D22KQp4lMTtF4EamzuDkR86lGUbg5seX/
 
-## Usage:
+## Usage
+
 1. Clone this repository.
 2. Download the model from gdrive link.
 3. Run `app.py`, go to the `http://127.0.0.1:5000/`
@@ -23,6 +24,6 @@ link : https://drive.google.com/file/d/1D22KQp4lMTtF4EamzuDkR86lGUbg5seX/
 - This project is only for learning purposes and doesn't work well in real time because was trained on historical and limited data.
 
 
-## Paper of Project:
+## Paper of Project
 <a id="1">[1]</a> 
 R. Yusuf and S. Suyanto, "Hoax Detection on Indonesian Text using Long Short-Term Memory," 2022 5th International Conference on Information and Communications Technology (ICOIACT), 2022, pp. 268-271, doi: 10.1109/ICOIACT55506.2022.9972086.
