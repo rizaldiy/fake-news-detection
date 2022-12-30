@@ -11,10 +11,11 @@ This project proposed Word2Vec-LSTM methods for detecting fake news in Indonesia
 
 link : https://drive.google.com/file/d/1D22KQp4lMTtF4EamzuDkR86lGUbg5seX/
 
-## How to use:
-1. Clone this repository
-2. Download the model from gdrive link
+## Usage:
+1. Clone this repository.
+2. Download the model from gdrive link.
 3. Run `app.py`, go to the `http://127.0.0.1:5000/`
+4. Paste news text to the text area input and submit.
 
 - The UI design template reference is by Pooja Bhagat: [https://github.com/581-pooja ](https://github.com/581-pooja/Fake-News-Classification-App/tree/master/templates)
 
