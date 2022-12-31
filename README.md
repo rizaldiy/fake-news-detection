@@ -11,7 +11,7 @@ This project proposed Word2Vec-LSTM methods for detecting fake news in Indonesia
 
 link : https://drive.google.com/file/d/1D22KQp4lMTtF4EamzuDkR86lGUbg5seX/
 
-## Usage
+## How to use
 
 1. Clone this repository.
 2. Download the model from gdrive link.
